@@ -1,6 +1,6 @@
 ---
-title: "Conclusion: Embracing Fate's Decree"
-tags: ['wisdom', 'knowledge', 'contentment', "conclusion"]
+title: "A Fortunate Encounter"
+tags: ['wealth', "narration"]
 ---
 
- 
+ فبينما هو مهموم إذ مرَّت به امرأة لبعض عظماءِ أهل المدينة فأعجبها جماله فأرسلت إليه جاريتها فأتت به إلى منزلها

@@ -1,7 +1,6 @@
 ---
-title: "Three Essential Pursuits in Life"
-tags: ['knowledge', 'wealth', 'good-character', "aphorism-compilation"]
+title: "Aphorisms on the Importance of Wealth and Knowledge"
+tags: ['knowledge', 'wealth', 'teaching', "aphorism-compilation"]
 ---
 
- فإنَّ خلالًا ثلاثًا ينبغي لصاحب الدنيا أن يقتبسها ويُقبسها منها العلم ومنها المال ومنها اتخاذ المعروف
-وقد قيل إنه لا ينبغي لطالبٍ أن يطلب أمرًا إلَّا من بعد معرفته بفضله فإنه يُعَدُّ جاهلًا من طَلَبَ أمرًا وعنَّى نفسه فيه وليس له منفعة
+ ويُقال أيضًا في أمرين يحتاج إليهما كل من احتاج إلى الحياة المال والأدب

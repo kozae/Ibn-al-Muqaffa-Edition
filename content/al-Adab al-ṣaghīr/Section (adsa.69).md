@@ -1,6 +1,6 @@
 ---
-title: "Seizing Opportunities and Avoiding Procrastination"
-tags: ['wisdom', 'self-awareness', 'ethics', "exposition"]
+title: "The Benefits of Knowledge"
+tags: ['knowledge', 'hardship', 'virtue', "aphorism-compilation"]
 ---
 
- اغتنمْ من الخير ما تعجَّلت ومن الأهواء ما سوَّفت ومن النصب ما عاد عليك ولا تفرح بالبطالة ولا تجبُن عن العمل
+ العِلمُ زينٌ لصاحبه في الرَّخاء ومنجاة له في الشدة

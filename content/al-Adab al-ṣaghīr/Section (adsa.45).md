@@ -1,6 +1,6 @@
 ---
-title: "The Importance of Seeking Feedback"
-tags: ['wisdom', 'knowledge', 'counsel', "exposition"]
+title: "The Importance of Intellect and Counsel"
+tags: ['intellect', 'counsel', 'poverty', "aphorism-compilation"]
 ---
 
- وقال لا ينبغي للمَرْءِ أنْ يَعْتَدَّ بعِلْمِهِ ورَأيه ما لم يُذاكره ذوي الألباب ولم يجامعوه عليه فإنه لا يُستكمل علم الأشياء بالعقل الفرد
+ أشدُّ الفاقة عدمُ العقل وأشد الوحدة وحدة اللجُوجِ ولا مَالَ أفضل من العقل ولا أُنس آنَسُ من الاستشارة

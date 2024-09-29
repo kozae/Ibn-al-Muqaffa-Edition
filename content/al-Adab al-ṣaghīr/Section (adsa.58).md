@@ -1,6 +1,6 @@
 ---
-title: "Learning from Past Mistakes"
-tags: ['wisdom', 'self-reflection', 'hardship', "exposition"]
+title: "Sharing Knowledge and Spreading Wisdom"
+tags: ['knowledge', 'teaching', 'virtue', "aphorism-compilation"]
 ---
 
- لا يُوقعنك بلاءٌ تخلصت منه في آخَر لعلك ألَّا تخلص منه
+ أفضلُ ما يُعلم به عِلْمُ ذي العلم وصلاح ذي الصَّلاح أن يَسْتَصْلِحَ بما أوتي من ذلك من استطاع من النَّاس ويُرغبهم فيما رغب فيه لنفسه من حب الله وحب حكمته والعمل بطاعته والرجاء لحسن ثوابه في المعاد إليه وأن يبين الذي لهم من الأخذ بذلك والذي عليهم في تركه وأن يورث ذلك أهله ومعارفه ليلحقه أجره من بعد الموت

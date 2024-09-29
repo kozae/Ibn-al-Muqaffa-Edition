@@ -1,6 +1,6 @@
 ---
-title: "Prioritizing Reason over Desire"
-tags: ['wisdom', 'reason', 'self-awareness', "argumentation"]
+title: "The Importance of Discernment"
+tags: ['intellect', 'reason', 'virtue', "analysis"]
 ---
 
- وعلى العاقل أن يعرف أن الرأيَ والهوى متعاديان وأن من شَأنِ النَّاس تسويف الرأي وإسعاف الهوى فيُخَالف ذَلك ويلتمس ألَّا يزال هواه مُسَوَّفًا ورأيه مسعفًا
+ الباب الأول من ذلك

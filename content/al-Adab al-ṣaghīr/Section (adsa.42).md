@@ -1,6 +1,6 @@
 ---
-title: "Seeking Knowledge Through Observation and Experience"
-tags: ['knowledge', 'wisdom', 'self-reflection', "exposition"]
+title: "The Value of Moderation and Contentment"
+tags: ['contentment', 'virtue', 'wealth', "aphorism-compilation"]
 ---
 
- مَنْ أراد أن يُبصر شيئًا من عِلْمِ الآخرة فبالعلم الذي به يعرف ذلك ومن أراد أن يبصر شيئًا من علم الدنيا فبالأشياء التي هي تدل عليه
+ اقتصادُ السَّعي أبقى للجَمَام وفي بُعد الهمَّة يكون النَّصَبُ ومن سأل فوقَ قدره استحق الحرمان

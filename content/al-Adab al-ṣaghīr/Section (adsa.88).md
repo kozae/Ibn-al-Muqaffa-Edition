@@ -1,6 +1,6 @@
 ---
-title: "The Value of Wise Counsel"
-tags: ['leadership', 'counsel', 'wisdom', "exposition"]
+title: "The Fluidity of Faith"
+tags: ['religion', 'self-reflection', 'virtue', "aphorism-compilation"]
 ---
 
- الملك الحازمُ يزدَادُ برأي الوزراء الحزمة كما يَزْدَادُ البحر بمواده من الأنهار
+ لا يثبُتُ دينُ المرء على حالة واحدة أبدًا ولكنه لا يزال إما زائدًا وإما ناقصًا

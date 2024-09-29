@@ -1,6 +1,6 @@
 ---
-title: "Departure to the Tale of the King and the Winds"
-tags: ['counsel', 'disobedience', "frame_story_departure"]
+title: "Inner Story: Roozbad's Counsel"
+tags: ['counsel', 'caution', "dialogue"]
 ---
 
- قال الملك وكيف كان ذلك
+ قال له الملك قل إذن ما عندك

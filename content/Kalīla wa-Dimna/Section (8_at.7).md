@@ -1,6 +1,6 @@
 ---
-title: "Departure to Inner Story: The Lion, the Jackal, and the Donkey"
-tags: ['stratagem', 'death', "frame_story_departure"]
+title: "Inner Story: The False Cure"
+tags: ['death', 'counsel', "dialogue"]
 ---
 
- قال الغيلم وكيف كان ذلك
+ فقال إني أراك منهوكة فلم تجبه فأعاد المسألة فأجابت عنها جارةٌ لها وقالت له ما أشدَّ حالَ زوجتك أمَّا مَرَضها فشديد وأمَّا الدواء فأشدُّ فهل لشدَّة الداء وعدم الدواء إلَّا الموت فقال الزوج فأخبريني بالدواء لعلِّي أقدر عليه وألتمسه حيث كان قالت هذا المرض نحن  معاشرَ النساء  أعلم به وليس له دواءٌ إلَّا قلبُ قرد

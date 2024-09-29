@@ -1,6 +1,6 @@
 ---
-title: "The Eavesdropping Lion and Kalilah's Death"
-tags: ['death', 'justice', 'secrecy', "narration"]
+title: "Inner Story 3: The Farmer and His Wives"
+tags: ['self-awareness', 'speech', 'manners', "frame_story_departure"]
 ---
 
- وكان في السجن سَبُع وكان نائمًا قريبًا من كليلة ودمنة حيث اجتمعا في السجن فاستيقظ بكلامها فسمع جميع ما تحاورا فيه وتراجعاه بينهما فحفظ ذلك وكتمه
+ فلمَّا سمعت ذلك أمُّ الأسد قالت مجيبة له الذي كرَب الملكَ بقاؤك حيًّا إلى اليوم مع عظيم حَدَثك وجُرمِك أيها الغادر الكذوب

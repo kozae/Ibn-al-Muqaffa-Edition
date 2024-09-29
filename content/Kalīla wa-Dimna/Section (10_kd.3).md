@@ -1,6 +1,6 @@
 ---
-title: "Transition to Frame Story"
-tags: ["transition"]
+title: "The King's Curiosity"
+tags: ["dialogue"]
 ---
 
  قال الملك وكيف كان ذلك

@@ -1,6 +1,6 @@
 ---
-title: "The Importance of Contentment and Humility"
-tags: ['contentment', 'knowledge', 'wisdom', "exposition"]
+title: "The Interplay of Wealth and Intellect"
+tags: ['wealth', 'intellect', 'reason', "aphorism-compilation"]
 ---
 
- وأنفع العقل أن تُحسن المعيشة فيما أوتيتَ من خير وألا تكترث من الشر بما لم يصبك ومن العلم أن تَعْلَم أنك لا تعلم ما لا تُعَلَّم
+ القِسْمُ الذي يُقْسَم للناس ويمتعون به نحوان فمنه حارسٌ ومنه محروسٌ فالحارس العقل والمحروس المال

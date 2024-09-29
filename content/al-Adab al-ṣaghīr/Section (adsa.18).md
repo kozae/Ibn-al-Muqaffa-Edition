@@ -1,6 +1,6 @@
 ---
-title: "The Value of Intellect and Counsel"
-tags: ['intellect', 'counsel', 'wisdom', "exposition"]
+title: "Self-Accountability and Improvement"
+tags: ['self-reflection', 'self-awareness', 'virtue', "analysis"]
 ---
 
- أشدُّ الفاقة عدمُ العقل وأشد الوحدة وحدة اللجُوجِ ولا مَالَ أفضل من العقل ولا أُنس آنَسُ من الاستشارة
+ هو تنفيذ البصر بالعَزْمِ بعد المعرفة بفضل الذي هو أدومُ وبعد التثبُّت في مواضع الرجاء والخوف فإن طالب الفضل بغير بصر تائهٌ حيران ومبصر الفضل بغير عزم ذو زمانةٍ محرومٌ وعلى العاقل مُخَاصمة نفسه ومحاسبتها والقضاء عليها والإبانة لها والتنكيل بها

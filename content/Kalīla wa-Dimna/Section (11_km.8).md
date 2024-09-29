@@ -1,6 +1,6 @@
 ---
-title: "Departure to the Tale of the Donkey and the Stag"
-tags: ['counsel', 'disobedience', "frame_story_departure"]
+title: "Inner Story: Roozbad's Warning"
+tags: ['counsel', 'caution', 'hardship', "dialogue"]
 ---
 
- قال الملك وكيف كان ذلك
+ قال الملك له ليس ما يُتوارث من الجنس فقط ولكن كل أمر من الأمور وإن صغر وقلَّ لا يمكن أن يتمَّ إلَّا بعنايةٍ من فوق وذلك أنَّ انتهاء كل أمرٍ من الأمور إنما يكون في زمانٍ من الأزمنة غير أنَّ معرفة ذلك الزَّمان خفيَةٌ عن الناس والعِنَايَةُ تحتاج إلى حرصٍ كما يحتاج ضوء العينين إلى ضوء الشمس

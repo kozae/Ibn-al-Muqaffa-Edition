@@ -1,6 +1,6 @@
 ---
-title: "Four Persistent Dangers"
-tags: ['wisdom', 'hardship', 'caution', "exposition"]
+title: "Self-Reflection and Learning from Others"
+tags: ['self-reflection', 'good-character', 'virtue', "aphorism-compilation"]
 ---
 
- أربعةُ أشياءَ لا يُسْتَقَلُّ منها قليلٌ النارُ والمرضُ والعَدوُّ والدَّين
+ حقٌّ على العاقل أنْ يتخذ مرآتين فينظر من إحداهما في مساوئ نفسه فتتصاغر بها ويُصْلِحُ ما استطاع منها وينظر من الأُخْرَى في محاسن الناس فيحليهم بها ويأخذ ما استطاع منها

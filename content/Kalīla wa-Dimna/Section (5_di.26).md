@@ -1,6 +1,6 @@
 ---
-title: "Documentation and Further Imprisonment of Damanah"
-tags: ['justice', 'secrecy', 'speech', "narration"]
+title: "The Jackal's Confession"
+tags: ['counsel', 'death', 'self-reflection', "dialogue"]
 ---
 
- وكتب النمر والقاضي ما قال دمنة وما قيل له وختما عليه وبعثا به إلى السجن
+ قال الأسد وكيف كان ذلك

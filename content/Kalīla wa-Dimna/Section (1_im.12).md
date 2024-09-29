@@ -1,6 +1,6 @@
 ---
-title: "The Need for Moderation and Learning from Others' Mistakes"
-tags: ['wisdom', 'caution', 'self-awareness', "analysis"]
+title: "Analogy of the Knowledgeable but Gluttonous Patient: The Importance of Following Through on Knowledge"
+tags: ['knowledge', 'self-awareness', 'disobedience', "analysis"]
 ---
 
- وينبغي له مع ذلك أن يكون للأمور عنده حدٌّ لا يجوزُه ولا يُقَصِّر عنه فإنه مَن جاز الحد كان كمن قصَّر عنه لأنهما خالفا الحدَّ جميعًا وينبغي له أن يَعلم أنَّ كل إنسان ساعٍ فمن كان سعيه لآخرته ودنياه فحياته له وعليه
+ ومن لم ينتفع بمعرفته كان كالمريض العالم الذي يعلم ثقيل الطعام من خفيفه ثم تحمِلُه الشهوة على أكل الثقيل منه

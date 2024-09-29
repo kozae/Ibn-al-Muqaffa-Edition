@@ -1,7 +1,6 @@
 ---
-title: "A Temporary Truce"
-tags: ['trust', "narration"]
+title: "The Rat's Plea for Trust"
+tags: ['friendship', 'trust', 'stratagem', "dialogue"]
 ---
 
- فلمَّا دنا الجرذ من السنَّوْر أخذه فالتزمه
-فلمَّا رأت البومة وابنُ عِرس ذلك انصرفا خائبينِ
+ ثم دنا منه فقال كيف حالك فأجابه السنَّوْر كالذي تهوى في الضنك والضيق

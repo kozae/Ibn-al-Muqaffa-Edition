@@ -1,6 +1,9 @@
 ---
-title: "The Perils of Excessive Caution"
-tags: ['caution', 'self-awareness', 'wisdom', "argumentation"]
+title: "Priorities in Leadership"
+tags: ['leadership', 'religion', 'piety', "aphorism-compilation"]
 ---
 
- اعلم أن بعض شدة الحذر عونٌ عَليْكَ فيمَا تَحذَرُ وأن شدَّة الاتقاء تدعو إليك ما تتقي
+ لتكن حاجتك في الولاية إلى ثلاث خصال رضا ربك ورضا سُلطان أن كان فوقك ورضا صالحِ مَن تَلي عليه وما عليك أن تلهى عن المال والذكر فسيأتيك منهما ما يكفي ويطيب واجعل الخصالَ الثلاثَ بمكان ما لا بُدَّ لك منه والمال والذكر بمكان ما أنت واجدٌ منه بدًّا
+
+## Similar Sections
+- [[Section (adka.2)]]

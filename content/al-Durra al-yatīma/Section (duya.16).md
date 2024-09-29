@@ -1,6 +1,6 @@
 ---
-title: "Adapting Communication to the Audience"
-tags: ['speech', 'intellect', 'wisdom', "argumentation"]
+title: "Rejecting Praise"
+tags: ['modesty', 'flattery', "aphorism-compilation"]
 ---
 
- وإذا كنت في قوم ليسوا بُلغاء ولا فصحاء فدع التطاوُل عليهم في البلاغة أو الفصاحة
+ اعلم أن قابل المدح كمادح نفسه والمرءُ جدير أن يكُونَ حُبُّه المدحَ هو الذي يحمله على رده فإنَّ الرَّادَّ له محمودٌ والقابل له معيب

@@ -1,6 +1,6 @@
 ---
-title: "Damanah's Execution and Bidba's Concluding Remark"
-tags: ['death', 'justice', 'wisdom', "narration"]
+title: "Return to Frame Story: The Philosopher's Conclusion"
+tags: ['justice', 'ethics', 'counsel', "frame_story_return"]
 ---
 
- ثم قال الفيلسوف للملك فلينظر أهل التفكر في الأمور في هذا وأشباهه وليعلموا أنه مَن يلتمس منفعةَ نفسِه بهلاك غيره  ظالِمًا له بخديعةٍ أو مكرٍ أو خِلابةٍ  فإنه غيرُ ناجٍ من وَبالِ ذلك عليه وعاقبته ومغبَّته وأنه مُكافأٌ به ومَجزِيٌّ بما عمل عاجلًا وآجلًا وصائرٌ إلى البوار على كل حال
+ فلمَّا سَمِعَ ذلك من دمنة لم يُحِرْ جوابًا

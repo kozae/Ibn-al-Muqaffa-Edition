@@ -1,6 +1,6 @@
 ---
-title: "Seizing Opportunities and Avoiding Procrastination"
-tags: ['wisdom', 'self-awareness', 'ethics', "exposition"]
+title: "Balancing Reason and Desire"
+tags: ['reason', 'self-awareness', 'virtue', "analysis"]
 ---
 
- إذا هَمَمْتَ بالخير فبادِرْ هَوَاك لا يغلبك وإذا هممت بِشَرٍّ فَسَوِّفْ هَوَاك لعلك تظفر فإن ما مضى من الأيام والساعات على ذلك هو الغُنم
+ وعلى العاقل أن يعرف أن الرأيَ والهوى متعاديان وأن من شَأنِ النَّاس تسويف الرأي وإسعاف الهوى فيُخَالف ذَلك ويلتمس ألَّا يزال هواه مُسَوَّفًا ورأيه مسعفًا

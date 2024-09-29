@@ -1,6 +1,9 @@
 ---
-title: "Self-Reflection and Learning from Others"
-tags: ['self-reflection', 'wisdom', 'virtue', "exposition"]
+title: "The Fleeting Nature of Worldly Pleasures"
+tags: ['contentment', 'virtue', 'self-awareness', "aphorism-compilation"]
 ---
 
- حقٌّ على العاقل أنْ يتخذ مرآتين فينظر من إحداهما في مساوئ نفسه فتتصاغر بها ويُصْلِحُ ما استطاع منها وينظر من الأُخْرَى في محاسن الناس فيحليهم بها ويأخذ ما استطاع منها
+ للدنيا زُخرُفٌ يغلب الجوارحَ ما لم تغلبه الألباب والحكيمُ من لم يَغُضَّ عليه طرفه ولم يشغل به قلبَه اطَّلع من أدناه فيما وراءه وذكر في بدئه لواحقَ شره فأكل مُرَّه وشرب كدره ليحلو لي وله ويصفو في طول من إقامة العيش الذي يبقى ويَدُومُ غير عائف للرُّشد إن لم يلقه برِضَاه ولم يأتِهِ من طريق هواه
+
+## Similar Sections
+- [[Section (3_bu.46)]]

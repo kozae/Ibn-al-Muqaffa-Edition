@@ -1,7 +1,6 @@
 ---
-title: "The Importance of Piety and Prudence"
-tags: ['piety', 'wisdom', 'intellect', "exposition"]
+title: "The Power of Religion and Wisdom"
+tags: ['religion', 'knowledge', 'virtue', "aphorism-compilation"]
 ---
 
- الوَرِع لا يَخْدَع والأريبُ لا يُخدع
-ومن ورع الرَّجُل ألَّا يَقُولَ ما لا يَعْلَمُ ومن الأرَبِ أن يَتَثَبَّتَ فيما يعلم
+ الدِّين أفضل المواهب التي وصلت من الله تعالى إلى خلقه وأعظمها منفعة وأحمدُها في كُلِّ حكمة فقد بلغ فضل الدين والحكمة أن مُدِحَا على ألسنة الجهال على جهالتهم بهما وعَمَاهمْ عنهما

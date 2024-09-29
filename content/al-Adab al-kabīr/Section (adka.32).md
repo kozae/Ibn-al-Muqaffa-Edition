@@ -1,6 +1,11 @@
 ---
-title: "Treating People Justly and Kindly"
-tags: ['ethics', 'justice', 'friendship', "exposition"]
+title: "The Importance of Attentive Listening"
+tags: ['manners', 'speech', 'counsel', "analysis"]
 ---
 
- مطلبٌ في معاملة الناس ابْذُلْ لصديقك دمك ومالك ولمعرفتك رِفْدك ومَحْضَرك وللعامَّة بِشْرَك وتحنُّنَك ولعدوِّك عَدْلك وإنصافك  واضنن بدِينك وعِرْضِك على كل أحد
+ مطلبٌ في آداب الاستماع إذا كلَّمك الوالي فأصغِ إلى كلامه ولا تَشْغَل طَرْفَك عنه بنظرٍ إلى غيره ولا أطرافك بعملٍ ولا قلبك بحديث نفس  واحذر هذه الخصلة من نفسك وتعاهدْها بجهدك
+
+## Similar Sections
+- [[Section (duya.75)]]
+ - [[Section (duya.66)]]
+ - [[Section (duya.54)]]

@@ -1,6 +1,6 @@
 ---
-title: "The Power of Analogies"
-tags: ['knowledge', 'teaching', 'speech', "exposition"]
+title: "The Power of Decisive Action"
+tags: ['virtue', 'reason', 'self-awareness', "analysis"]
 ---
 
- إذا جُعل الكلام مثلًا كان أوضحَ للمَنْطِق وأَبْيَنَ في المعنى وآنقَ للسَّمع وأوسع لشعوب الحديث
+ والباب الثالث من ذلك

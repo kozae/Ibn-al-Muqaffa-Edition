@@ -1,7 +1,6 @@
 ---
-title: "Departure to Inner Story"
-tags: ['counsel', 'wisdom', "frame_story_departure"]
+title: "Importance of Deliberation"
+tags: ['counsel', 'reason', 'self-reflection', "aphorism-compilation"]
 ---
 
- ومن أمثال ذلك مَثَل الناسك وابن عِرس
-قال الملك وكيف كان ذلك
+ قال الفيلسوف من لم يكن في عمله متأنيًا وفي أمره مُتَثبتًا لم يبرح نادمًا

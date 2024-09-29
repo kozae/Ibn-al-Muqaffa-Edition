@@ -1,6 +1,6 @@
 ---
-title: "Return to Main Story"
-tags: ["frame_story_return"]
+title: "Deception Successful"
+tags: ['stratagem', 'disobedience', "narration"]
 ---
 
- 
+ فلمَّا رأت البومة وابنُ عِرس ذلك انصرفا خائبينِ

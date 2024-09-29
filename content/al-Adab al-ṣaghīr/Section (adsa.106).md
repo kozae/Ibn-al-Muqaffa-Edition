@@ -1,6 +1,9 @@
 ---
-title: "The Most Fortunate Individuals"
-tags: ['wisdom', 'generosity', 'justice', "exposition"]
+title: "Choosing Companions Wisely"
+tags: ['friendship', 'trust', 'virtue', "aphorism-compilation"]
 ---
 
- وأغبطُ الناس عند ذوي العُقول أكثرُهم سائلًا منجحًا ومستجيرًا آمنًا
+ لا تُؤَاخِيَنَّ خِبًا ولا تَسْتَنْصِرَنَّ عاجزًا ولا تستعينن كَسِلًا
+
+## Similar Sections
+- [[Section (duya.20)]]

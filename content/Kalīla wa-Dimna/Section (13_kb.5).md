@@ -1,7 +1,6 @@
 ---
-title: "The Bird's Wisdom on Relationships and Solitude"
-tags: ['friendship', 'trust', 'wisdom', "aphorism-compilation"]
+title: "Inner Story: The Bird's Refusal to Return"
+tags: ['trust', 'caution', 'anger', "dialogue"]
 ---
 
- وكان يُقال إنَّ العاقل إنما يَعُدُّ أبويه من الأصدقاء ويعدُّ الإخوة من الرفقاء والأزواج إلفًا والبنين ذِكرًا والبنات خصيمات والأقارب غرماء ويعدُّ نفسه فردًا وحيدًا
-وأنا اليوم الفرد الوحيد قد تزوَّدت من عندكم من الحزنِ عِبئًا ثقيلًا لا يحمله معي أحد وأنا ذاهب فعليك السلام
+ ثم وثب في وجه الغلام ففقأ عينيه برجليه ثم طار فوقع على مكانٍ مُشرِف

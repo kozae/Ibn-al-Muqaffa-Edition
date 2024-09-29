@@ -1,0 +1,6 @@
+---
+title: "Return to Main Story: Rejecting Blind Faith"
+tags: ['trust', 'religion', 'knowledge', "frame_story_return"]
+---
+
+ فلمَّا سمع اللصوص ذلك فرِحوا وقالوا لقد ظِفرنا من هذا البيت بأمرٍ هو خيرٌ لنا من المال وأمِنَّا به من السلطان وأطالوا المُكث حتى ظنُّوا أنَّ الرجل قد نام

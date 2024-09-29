@@ -1,6 +1,9 @@
 ---
-title: "Frame Story Departure: The Sifrid, the Hare, and the Cat"
-tags: ['justice', 'death', 'religion', "frame_story_departure"]
+title: "The Value of Counsel and Deliberation"
+tags: ['counsel', 'intellect', "dialogue"]
 ---
 
- قالت الطير وكيف كان ذلك
+ قال الملك فما ترى إذ كرهت ذلك قال نأتمر ونتشاور فإنَّ الملك المشاوِر المؤامر يُصيب في مؤامراته ذوي العقول من نصحائه من الظفر ما لا يُصيبه بالجنود والزحف وكثرة العُدد فالملك الحازم يزداد بالمؤامرة والمشاورة ورأي الوزراء الحَزَمة كما يزداد البحر بموادِّه من الأنهار ولا يخفى على الحازم قدرُ أمرِه وأمرِ عدوِّه وفرصةُ قتاله ومواضعُ رأيه ومكايدته
+
+## Similar Sections
+- [[Section (adsa.135)]]

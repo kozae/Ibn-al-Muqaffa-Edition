@@ -1,9 +1,6 @@
 ---
-title: "The Etiquette of Seeking and Giving Advice"
-tags: ['wisdom', 'counsel', 'speech', "exposition"]
+title: "Navigating Difficult Decisions"
+tags: ['caution', 'reason', 'intellect', "aphorism-compilation"]
 ---
 
- إن المسْتَشِير وإن كان أفضل من المستشار رأيًا فهُو يزداد برأيه رأيًا كما تزدَادُ النار بالودك ضوءًا وعلى المستشار موافقة المستشير على صواب ما يرى والرفق به في تبصير خطأ إن أتى به وتقليب الرأي فيما شكا فيه حتى تستقيم لهما مشاورتهما
-
-## Similar Sections
-- [[Section (7_oc.3)]]
+ وكان يُقال إذا تخالجتْك الأمُورُ فاسْتَقِلَّ أعظمها خطرًا فإنْ لم يستبنْ ذلك فأرجاها دركًا فإن اشتبه ذلك فأجدَرُها ألَّا يكُونَ له مرجوع حين تولي فرصته

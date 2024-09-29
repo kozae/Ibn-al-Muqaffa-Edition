@@ -1,6 +1,6 @@
 ---
-title: "Vices to Avoid"
-tags: ['wisdom', 'ethics', 'self-awareness', "exposition"]
+title: "The Importance of Humility and Seeking Consensus"
+tags: ['modesty', 'counsel', 'intellect', "analysis"]
 ---
 
- العُجْبُ آفة العقل واللجاجة قُعُود الهوى والبُخْلُ لقاحُ الحِرْصِ والمراء فَسَادُ اللسان والحمية سببُ الجهل والأنف توأم السفه والمنافسة أخت العداوة
+ وعلى العاقل أن يجبن عن الرأي الذي لا يجد عليه موافقًا وإن ظن أنه على اليقين

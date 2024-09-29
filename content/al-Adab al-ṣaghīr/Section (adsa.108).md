@@ -1,6 +1,6 @@
 ---
-title: "The Solace of Companionship"
-tags: ['friendship', 'wisdom', 'speech', "exposition"]
+title: "Seizing Opportunities and Avoiding Procrastination"
+tags: ['virtue', 'self-awareness', 'caution', "aphorism-compilation"]
 ---
 
- ومن المعونة على تسلية الهموم وسكون النفس لقاءُ الأخ أخاه وإفضاءُ كل واحد منهما إلى صاحبه ببثه وإذا فُرِّق بين الأليف وإلفه فقد سلب قراره وحرم سرورُهُ
+ اغتنمْ من الخير ما تعجَّلت ومن الأهواء ما سوَّفت ومن النصب ما عاد عليك ولا تفرح بالبطالة ولا تجبُن عن العمل

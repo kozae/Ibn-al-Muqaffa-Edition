@@ -1,6 +1,6 @@
 ---
-title: "The Absence of Virtue in the Wicked"
-tags: ['ethics', 'virtue', 'wisdom', "exposition"]
+title: "Managing Desires and Seizing Opportunities"
+tags: ['self-awareness', 'virtue', 'caution', "aphorism-compilation"]
 ---
 
- لا يذكر الفاجرُ في العقلاء ولا الكذوب في الأعفاء ولا الخذول في الكُرَماء ولا الكفور بشيء من الخير
+ إذا هَمَمْتَ بالخير فبادِرْ هَوَاك لا يغلبك وإذا هممت بِشَرٍّ فَسَوِّفْ هَوَاك لعلك تظفر فإن ما مضى من الأيام والساعات على ذلك هو الغُنم

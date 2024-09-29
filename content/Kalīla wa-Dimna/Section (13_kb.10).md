@@ -1,6 +1,6 @@
 ---
-title: "Return to Main Story: The Bird's Final Farewell"
-tags: ['trust', 'friendship', 'caution', "frame_story_return"]
+title: "Inner Story: The Bird's Analogy of the Tamed Elephant"
+tags: ['stratagem', 'caution', 'counsel', "dialogue"]
 ---
 
- ثم ودَّع الملك وطار
+ وأنا اليوم الفرد الوحيد قد تزوَّدت من عندكم من الحزنِ عِبئًا ثقيلًا لا يحمله معي أحد وأنا ذاهب فعليك السلام

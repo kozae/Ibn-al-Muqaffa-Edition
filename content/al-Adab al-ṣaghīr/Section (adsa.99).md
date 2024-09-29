@@ -1,10 +1,6 @@
 ---
-title: "The Importance of Acceptance and Contentment"
-tags: ['wisdom', 'contentment', 'friendship', "exposition"]
+title: "The Dangers of Acting Without Knowledge"
+tags: ['knowledge', 'caution', 'intellect', "aphorism-compilation"]
 ---
 
- وسمعتُ العُلماءَ قالوا لا عقل كالتدبير ولا وَرَعَ كالكف ولا حسب كحسن الخلق ولا غنى كالرضا وأحق ما صُبِرَ عليه ما لا سبيل إلى تغييره
-وأفضلُ البر الرَّحمة ورأس المودة الاسترسال ورأسُ العقل المعرفةُ بما يكون وما لا يكون وطيب النفس حُسنُ الانصراف عما لا سبيل إليه  وليس في الدُّنيا سرورٌ يعدل صحبة الإخوان ولا فيها غم يعدل غم فقدهم
-
-## Similar Sections
-- [[Section (2_lv.1)]]
+ وإقدامه على ما لا يَدْرِي أَصَوابٌ هو أَمْ خَطأ جِماحٌ والجِمَاحُ آفة العقل

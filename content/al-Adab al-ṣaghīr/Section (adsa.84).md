@@ -1,7 +1,6 @@
 ---
-title: "Knowledge Without Piety is Dangerous"
-tags: ['knowledge', 'religion', 'wisdom', "exposition"]
+title: "The Importance of Faith"
+tags: ['religion', 'virtue', 'ethics', "aphorism-compilation"]
 ---
 
- فضلُ العلم في غير الدين مهلكة وكثرة الأدب في غير رضوان الله ومنفعة الأخيار قائدٌ إلى النار
-والحفظ الذكي الواعي بغير العلم النافع مضر بالعمل الصالح والعقل غير الوازع عن الذنوب خازنٌ للشيطان
+ وقال المؤمن بشَيءٍ من الأشْيَاءِ وإنْ كان سِحْرًا خَيْرٌ مِمَّن لا يؤمن بشيء ولا يرجو معادًا

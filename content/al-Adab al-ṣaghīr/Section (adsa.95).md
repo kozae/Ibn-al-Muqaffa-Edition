@@ -1,6 +1,6 @@
 ---
-title: "The Difference Between the Determined and the Desperate"
-tags: ['wisdom', 'hardship', 'self-awareness', "exposition"]
+title: "Learning from Past Mistakes"
+tags: ['caution', 'self-awareness', 'hardship', "aphorism-compilation"]
 ---
 
- السبب الذي يدرك به العاجز حاجتَه هو الذي يَحُول بين الحازم وبين طلبته
+ لا يُوقعنك بلاءٌ تخلصت منه في آخَر لعلك ألَّا تخلص منه

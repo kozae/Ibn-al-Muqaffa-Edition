@@ -1,6 +1,9 @@
 ---
-title: "Balancing Worldly Enjoyment with Spiritual Preparation"
-tags: ['wisdom', 'religion', 'contentment', "exposition"]
+title: "Cultivating Virtuous Qualities"
+tags: ['virtue', 'speech', 'generosity', "aphorism-compilation"]
 ---
 
- لا عَقْلَ لمن أغفَلَه عن آخرته ما يجدُه من لذة دُنْيَاه  وليس من العَقْلِ أن يَحْرِمَه حظه من الدنيا بصَرُه بزوالها
+ ليكن المرء سئولًا وليكُنْ فَصُولًا بين الحق والباطل وليكُن صَدُوقًا ليؤمن على ما قال وليكن ذا عهد ليُوفَى له بعهده وليكن شكورًا ليستوجب الزيادة وليكن جوادًا ليكونَ للخير أهلًا وليكن رحيمًا بالمضرورين لئلا يبتلى بالضُّر وليكن ودودًا لئلا يكون معدنًا لأخلاق الشيطان
+
+## Similar Sections
+- [[Section (1_im.26)]]

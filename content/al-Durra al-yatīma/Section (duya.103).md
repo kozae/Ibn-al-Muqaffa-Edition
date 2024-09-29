@@ -1,0 +1,11 @@
+---
+title: "Avoiding Showmanship of Knowledge"
+tags: ['knowledge', 'counsel', "aphorism-compilation"]
+---
+
+ وإذا رأيتَ رَجُلًا يحدثُ حديثًا قد علمته أو يخبر خبرًا قد سمعته فلا تُشاركْه فيه ولا تتعقبْه عليه حرصًا على أن يعلَمَ النَّاسُ أنك قد علمته فإنَّ في ذلك خفة وشحًّا وسوء أدب وسخفًا
+
+## Similar Sections
+- [[Section (adka.73)]]
+ - [[Section (adka.41)]]
+ - [[Section (adka.46)]]

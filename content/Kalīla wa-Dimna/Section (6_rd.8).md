@@ -1,6 +1,6 @@
 ---
-title: "Return to the Rat's Story"
-tags: ['wealth', 'poverty', "frame_story_return"]
+title: "The Dove Seeks Help from the Rat"
+tags: ['friendship', 'trust', "narration"]
 ---
 
- فأتاه الناسك بفأس
+ فقالت المطوَّقة لا تَخاذَلن في المُعالجة ولا تَكُنْ نفسُ كل واحدة منكنَّ أهمَّ إليها من نفس صاحبتها ولكن تعاونَّ فلعلنا نَقلع الشبكة فيُنجي بعضُنا بعضًا ففعلن ذلك فانتزعن الشبكة حين تعاونَّ عليها وطِرْنَ بها في عُلوِّ السماء

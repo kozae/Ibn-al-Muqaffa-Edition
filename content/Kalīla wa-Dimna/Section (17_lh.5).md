@@ -1,6 +1,6 @@
 ---
-title: "Return to Main Story: Applying the Lesson"
-tags: ['justice', 'ethics', 'wisdom', "frame_story_return"]
+title: "Inner Story: The Lioness's Plea for Explanation"
+tags: ['counsel', 'teaching', 'knowledge', "dialogue"]
 ---
 
- ثم قال الفيلسوف للملك فالناسُ أحقُّ بحسن النظر في الأمر الذي لهم الحظُّ فيه فإنه قد قيل ما لا ترضاه لنفسك لا ترضه لغيرِك وما لا تحبُّ أن يُصنع بك فلا تصنعه بغيرك فإنَّ في ذلك العدل وفي العدل رضا الله تعالى
+ قالت اللبؤة اشرح لي ما تقول وأوضحه

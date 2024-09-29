@@ -1,6 +1,6 @@
 ---
-title: "True Wealth: Intellect and Good Deeds"
-tags: ['wisdom', 'intellect', 'wealth', "exposition"]
+title: "The Hierarchy of Values"
+tags: ['virtue', 'intellect', 'friendship', "aphorism-compilation"]
 ---
 
- وليس يفرح العاقل بالمال الكثير ولا يُحزنه قلته ولكن ماله عقله وما قدم من صالح عمله
+ أمورٌ هُنَّ تبعٌ لأمور فالمروات كلها تبع للعقل والرأي تبع للتجربة والغبطة تبع لحسن الثناء والسرور تبعٌ للأمن والقَرَابَةُ تبع للمودة والعمل تبع للقدر والجدة تبع للإنفاق

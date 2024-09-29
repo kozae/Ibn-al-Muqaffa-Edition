@@ -1,7 +1,6 @@
 ---
-title: "True Wealth and Happiness"
-tags: ['wealth', 'contentment', 'friendship', "exposition"]
+title: "Finding Peace in Accepting the Inevitable"
+tags: ['contentment', 'self-awareness', 'virtue', "aphorism-compilation"]
 ---
 
- لا تعُدَّ غنيًّا من لم يشارك في ماله ولا تَعُدَّ نعيمًا ما كان فيه تنغيصٌ وسوء ثناء
-ولا تعد الغُنْمَ غُنْمًا إذا ساق غُرْمًا ولا الغُرْم غُرْمًا إذا ساق غُنْمًا ولا تَعْتَدَّ من الحياة ما كان في فراق الأحبة
+ إنَّ من أعظم ما يُرَوِّح به المرءُ نَفْسَه ألَّا يجري لِما يهوى  وليس كائنًا إلا لِما لا يهوى وهو لا محالة كائنٌ

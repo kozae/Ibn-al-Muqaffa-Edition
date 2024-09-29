@@ -1,6 +1,6 @@
 ---
-title: "The Fluidity of Faith"
-tags: ['religion', 'self-reflection', 'piety', "exposition"]
+title: "The Vices of Mankind"
+tags: ['envy', 'ethics', 'speech', "aphorism-compilation"]
 ---
 
- لا يثبُتُ دينُ المرء على حالة واحدة أبدًا ولكنه لا يزال إما زائدًا وإما ناقصًا
+ ويتعاطون القبيح ويتعاينون بالغَمز ويرعون في الرَّخاء بالتحاسُد وفي الشدة بالتجاذُب

@@ -1,6 +1,6 @@
 ---
-title: "True Wealth Lies in Generosity"
-tags: ['wealth', 'generosity', 'wisdom', "exposition"]
+title: "The Importance of Humility Before Scholars"
+tags: ['modesty', 'knowledge', 'virtue', "aphorism-compilation"]
 ---
 
- أغنى الناس أكثرهم إحسانًا
+ وليكن ذا حياء لئلا يستذم للعُلَمَاء فإنَّ مخافة العالم مذمة العلماء أشَدُّ من مخافته عقوبة السلطان

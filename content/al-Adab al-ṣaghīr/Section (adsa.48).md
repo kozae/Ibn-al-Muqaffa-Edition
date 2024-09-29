@@ -1,6 +1,10 @@
 ---
-title: "Balancing Worldly and Spiritual Pursuits"
-tags: ['wisdom', 'religion', 'self-reflection', "exposition"]
+title: "The Benefits of a Sound Mind"
+tags: ['intellect', 'reason', 'virtue', "aphorism-compilation"]
 ---
 
- ومن أحسن ذوي العقول عقلًا مَنْ أحسن تقدير أمر معاشه ومعاده تقديرًا لا يفسد عليه واحد منهما الآخر فإن أعياه ذلك رفض الأدنى وآثر عليه الأعظم
+ والعقل  بإذن الله  هو الذي يُحرز الحظ ويُؤنس الغُربة ويَنْفِي الفاقة ويعرف النكرة ويُثمر المكسبة ويُطيب الثمرة ويُوجِّه السُّوقة عند السلطان ويستنزل للسلطان نصحة السوقة ويكسب الصديق وينفي العدو
+
+## Similar Sections
+- [[Section (2_lv.3)]]
+ - [[Section (2_lv.2)]]

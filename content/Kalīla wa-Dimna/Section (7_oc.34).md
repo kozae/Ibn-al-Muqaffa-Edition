@@ -1,6 +1,6 @@
 ---
-title: "Frame Story Departure: The Lions and the Toads"
-tags: ['hardship', 'wisdom', 'leadership', "frame_story_departure"]
+title: "Identifying the Judge"
+tags: ['justice', "dialogue"]
 ---
 
- قال الملك لقد احتملتَ مشقة شديدة بتصنُّعك للبوم وتضرُّعك لهنَّ
+ فقالت الأرنب ومَن القاضي

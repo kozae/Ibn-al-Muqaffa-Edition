@@ -1,6 +1,6 @@
 ---
-title: "Traits of the Wise and the Foolish"
-tags: ['wisdom', 'ethics', 'self-awareness', "exposition"]
+title: "Treating Others as You Wish to be Treated"
+tags: ['ethics', 'justice', 'self-awareness', "aphorism-compilation"]
 ---
 
- خُمُول الذكر أجمل من الذِّكر الذميم لا يوجد الفَخُور محمودًا ولا الغضوب مسرورًا ولا الحُرُّ حريصًا ولا الكريمُ حَسُودًا ولا الشَّره غنيًا ولا الملول ذا إخوان
+ أعْدَلُ السير أن تقيس الناس بنَفْسِك فلا تأتي إليهم إلا ما تَرْضَى أن يؤتى إليك

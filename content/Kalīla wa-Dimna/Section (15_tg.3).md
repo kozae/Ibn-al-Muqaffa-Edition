@@ -1,6 +1,6 @@
 ---
-title: "Departure to Inner Story"
-tags: ['counsel', 'trust', 'friendship', "frame_story_departure"]
+title: "Transition to the Inner Story"
+tags: ["transition"]
 ---
 
  قال الملك وكيف كان ذلك

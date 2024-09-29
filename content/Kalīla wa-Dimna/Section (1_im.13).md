@@ -1,6 +1,6 @@
 ---
-title: "Three Areas Demanding Attention in Life"
-tags: ['self-reflection', 'ethics', 'wisdom', "aphorism-compilation"]
+title: "The Blind Man and the Sighted Man: Accountability for Knowledge"
+tags: ['knowledge', 'justice', 'self-awareness', "analysis"]
 ---
 
- ويُقال في ثلاثة أشياء يحقُّ على صاحب الدنيا إصلاحُها وأن يتدارك لنفسه فيها أمرُ دنياه وأمرُ معيشته وأمرُ ما بينه وبين الناس
+ فأقلُّ الناس عُذرًا في ترك الأعمال الحسنة من قد عرف فضلها وحُسنَ عائدتها وما فيها من المنفعة وليس يعذِره أحدٌ على الخطأ كما أنَّه لو أنَّ رجلين أحدُهما أعمى والآخر بصير وقعا في جُبٍّ فهلكا جميعًا ولم ينجُ البصير من الهلكة  لأنه صار والأعمى في الجب بمنزلة واحدة  لكان البَصيرُ عند العقلاء أقلَّ عذرًا من الأعمى

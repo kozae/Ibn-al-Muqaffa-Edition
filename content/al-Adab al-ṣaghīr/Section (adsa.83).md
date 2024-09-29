@@ -1,6 +1,6 @@
 ---
-title: "Signs of a Shallow Mind"
-tags: ['wisdom', 'speech', 'self-awareness', "exposition"]
+title: "Balancing Worldly and Spiritual Pursuits"
+tags: ['religion', 'virtue', 'self-awareness', "aphorism-compilation"]
 ---
 
- من الدَّليل على سخافة المتكلم أن يكُونَ ما يُرى من ضحكه ليس على حسَبِ ما عنده من القول أو يُجَاذب الرجل الكلام وهو يكلم صاحبه ليكونَ هو المتكلم أو يتمنى أن يكونَ صاحبه قد فرغ وأنصت له فإذا أنصت له لم يحسن الكلام
+ ومن أحسن ذوي العقول عقلًا مَنْ أحسن تقدير أمر معاشه ومعاده تقديرًا لا يفسد عليه واحد منهما الآخر فإن أعياه ذلك رفض الأدنى وآثر عليه الأعظم

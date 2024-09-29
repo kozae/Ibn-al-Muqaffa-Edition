@@ -1,7 +1,6 @@
 ---
-title: "The Importance of Faith"
-tags: ['religion', 'piety', 'ethics', "exposition"]
+title: "The Weight of Words and Deeds"
+tags: ['speech', 'friendship', 'virtue', "aphorism-compilation"]
 ---
 
- وقال المؤمن بشَيءٍ من الأشْيَاءِ وإنْ كان سِحْرًا خَيْرٌ مِمَّن لا يؤمن بشيء ولا يرجو معادًا
-لا تؤدي التوبة أحدًا إلى النار ولا الإصرار على الذنوب أحدًا إلى الجنة
+ كلام اللبيب وإن كان نزرًا أدبٌ عظيم ومقارفةُ المأثم وإنْ كان محتقرًا مصيبةٌ جليلة ولقاء الإخوان وإن كان يسيرًا غُنْمٌ حسن

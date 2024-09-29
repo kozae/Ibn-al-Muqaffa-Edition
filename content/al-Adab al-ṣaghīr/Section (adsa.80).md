@@ -1,6 +1,6 @@
 ---
-title: "The Danger of Unrecognized Faults"
-tags: ['self-awareness', 'wisdom', 'ethics', "exposition"]
+title: "The Importance of Seeking Counsel"
+tags: ['counsel', 'knowledge', 'intellect', "aphorism-compilation"]
 ---
 
- من أشد عيوب الإنسان خفاء عيوبه عليه فإنه مَن خفي عليه عيبُه خَفِيت عليه محاسنُ غيره ومَن خفي عليه عيبُ نَفْسِهِ ومَحَاسِنُ غيره لم يقلع عن عيبه الذي لا يعرف ولن ينال محاسنَ غيره التي لا يبصرها أبدًا
+ وقال لا ينبغي للمَرْءِ أنْ يَعْتَدَّ بعِلْمِهِ ورَأيه ما لم يُذاكره ذوي الألباب ولم يجامعوه عليه فإنه لا يُستكمل علم الأشياء بالعقل الفرد

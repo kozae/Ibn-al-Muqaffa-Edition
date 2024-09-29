@@ -1,7 +1,9 @@
 ---
-title: "Four Types of People"
-tags: ['generosity', 'wealth', 'wisdom', "exposition"]
+title: "Avoiding Envy and Holding Grudges"
+tags: ['envy', 'anger', 'virtue', "aphorism-compilation"]
 ---
 
- الرجال أربعةٌ جوادٌ وبخيل ومسرف ومقتصد فالجواد الذي يُوجه نصيب آخرته ونصيب دنياه جميعًا في أمر آخرته
-والبخيل الذي لا يُعطي واحدة منهما نصيبها والمسرف الذي يجمعهما لدنياه والمقتصد الذي يلحق بكل واحدة منهما نصيبها
+ وليكن حَذِرًا لئلا تَطُولَ مخافَتُه ولا يكن حقُودًا لئلا يضر بنَفْسِهِ إضرارًا باقيًا
+
+## Similar Sections
+- [[Section (duya.122)]]

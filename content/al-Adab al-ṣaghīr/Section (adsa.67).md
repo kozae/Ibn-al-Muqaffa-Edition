@@ -1,6 +1,6 @@
 ---
-title: "Choosing Allies Wisely"
-tags: ['wisdom', 'friendship', 'trust', "exposition"]
+title: "Recognizing Wisdom Regardless of its Source"
+tags: ['knowledge', 'intellect', 'modesty', "aphorism-compilation"]
 ---
 
- لا تُؤَاخِيَنَّ خِبًا ولا تَسْتَنْصِرَنَّ عاجزًا ولا تستعينن كَسِلًا
+ لا يمنعنك صِغَرُ شأن امرئ من اجتباء ما رأيت من رأيه صوابًا واصطفاء ما رأيتَ من أخلاقه كريمًا فإنَّ اللؤلؤة الفائقة لا تُهان لِهَوان غائصها الذي استخرجها

@@ -1,6 +1,6 @@
 ---
-title: "Frame Story Departure: The Ascetic and the Deceptive Men"
-tags: ['counsel', 'stratagem', 'religion', "frame_story_departure"]
+title: "A Secret Meeting: Unveiling the Root of Enmity"
+tags: ['secrecy', "narration"]
 ---
 
- قال الملك وكيف كان ذلك
+ والأسرار منازل فمن السرِّ ما يدخل فيه الرهط ومنه ما يدخل فيه الرجلان ومنه ما يستعان فيه بالقوم ولا أرى لهذا السرِّ  في قدر منزلته  أن يشترك فيه إلا أربع آذان ولسانان

@@ -1,6 +1,6 @@
 ---
-title: "Five Things That Lead to Regret"
-tags: ['wisdom', 'friendship', 'death', "exposition"]
+title: "A Valuable Inheritance"
+tags: ['teaching', 'good-character', 'friendship', "aphorism-compilation"]
 ---
 
- خمسةٌ مُفَرِّطُون في خَمْسَة أشياء مُنَدَّمُون عليها الواهن المفرط إذا فاته العمل والمنقطع من إخوانه وصديقه إذا نابتْه النوائب والمستمكن منه عدوه لسوء رأيه إذا تذكر عجزه والمفارق الزَّوجة الصالحة إذا ابتلي بالطالحة والجريء على الذنوب إذا حضره الموت
+ أفضل ما يُورث الآباء الأبناء الثناء الحسن والأدب النافع والإخوان الصالحين

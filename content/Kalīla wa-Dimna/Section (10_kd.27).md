@@ -1,0 +1,6 @@
+---
+title: "Iblaad's Humility: Declining the Reward"
+tags: ['generosity', 'modesty', 'wealth', "dialogue"]
+---
+
+ فقال إبلاد إنه لا ينبغي لنا  معشر العبيد  أن ندنوَ من هذه الهدايا فأمَّا جُوبَر ابنُك فهو لها أهل فليأخذ ما أعطيتموه

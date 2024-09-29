@@ -1,6 +1,6 @@
 ---
-title: "Qualities of a Wise Ruler"
-tags: ['leadership', 'wisdom', 'justice', "exposition"]
+title: "Approaching Conflicts with Reason"
+tags: ['speech', 'anger', 'reason', "aphorism-compilation"]
 ---
 
- أحقُّ الناس بالتوقير الملك الحليمُ العالم بالأُمور وفُرَصِ الأعمال ومواضع الشدة واللين والغضب والرضا والمعاجلة والأناة الناظرُ في الأمر يَوْمَه وغده وعواقب أعماله
+ احذر خُصُومة الأهل والولد والصديق والضَّعيف واحتججْ عليهم بالحجج

@@ -1,6 +1,6 @@
 ---
-title: "Treating Others as You Wish to be Treated"
-tags: ['ethics', 'wisdom', 'justice', "exposition"]
+title: "Qualities of a Wise and Righteous Person"
+tags: ['good-character', 'justice', 'counsel', "aphorism-compilation"]
 ---
 
- أعْدَلُ السير أن تقيس الناس بنَفْسِك فلا تأتي إليهم إلا ما تَرْضَى أن يؤتى إليك
+ مما يُعتبر به صلاحُ الصالح وحسن نظره للنَّاس أنْ يكون إذا استعتبَ المذنب ستورًا لا يُشيعُ وإذا استُشِيرَ سَمْحًا بالنَّصيحة مُجتهِدًا للرأي وإذا استشار مطرحًا للحياء ومعترفًا للحق

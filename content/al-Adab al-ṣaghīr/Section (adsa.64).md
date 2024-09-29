@@ -1,6 +1,6 @@
 ---
-title: "The Consequences of Actions"
-tags: ['wisdom', 'ethics', 'knowledge', "exposition"]
+title: "The Intersection of Religion and Opinion"
+tags: ['religion', 'reason', 'intellect', "aphorism-compilation"]
 ---
 
- أمورٌ هُنَّ تبعٌ لأمور فالمروات كلها تبع للعقل والرأي تبع للتجربة والغبطة تبع لحسن الثناء والسرور تبعٌ للأمن والقَرَابَةُ تبع للمودة والعمل تبع للقدر والجدة تبع للإنفاق
+ قد يَشْتَبِه الدِّينُ والرَّأيُ في أماكنَ لولا تشابُهُهما لم يحتاجا إلى الفصل

@@ -1,6 +1,6 @@
 ---
-title: "Guarding Against Arrogance and Complacency"
-tags: ['wisdom', 'self-awareness', 'caution', "exposition"]
+title: "The Importance of Cultivating Both Intellect and Character"
+tags: ['intellect', 'good-character', 'knowledge', "aphorism-compilation"]
 ---
 
- من استعظم من الدنيا شيئًا فبطَر واستصغر من البر شيئًا فتهاون واحتقر من الإثم شيئًا فاجترأ عليه واغترَّ بعدو وإن قل فلم يحذره فذلك من ضيَاع العقل
+ بالأدب تَعْمُرُ القُلوبُ وبالعِلْمِ تَسْتَحْكِمُ الأحلامُ فالعقل الزاكي غير الصنيع كالأرض الطيبة الخراب

@@ -1,6 +1,6 @@
 ---
-title: "The Nature of Evil"
-tags: ['ethics', 'knowledge', 'anger', "exposition"]
+title: "The Power of Analogies"
+tags: ['speech', 'teaching', 'knowledge', "aphorism-compilation"]
 ---
 
- حياة الشيطان ترك العلم وروحه وجسده الجهل ومَعْدِنُه في أهل الحقد والقساوة ومَثْوَاه في أهل الغضب وعيشه في المصَارَمَة ورجاؤه في الإصرار على الذنوب
+ إذا جُعل الكلام مثلًا كان أوضحَ للمَنْطِق وأَبْيَنَ في المعنى وآنقَ للسَّمع وأوسع لشعوب الحديث

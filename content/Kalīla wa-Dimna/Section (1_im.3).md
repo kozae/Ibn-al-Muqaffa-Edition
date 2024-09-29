@@ -1,7 +1,6 @@
 ---
-title: "The Intertwined Value of Knowledge, Wealth, and Good Deeds"
-tags: ['knowledge', 'wealth', 'good-character', "aphorism-compilation"]
+title: "The Necessity of Diligent Study and Understanding"
+tags: ['knowledge', 'reading', 'intellect', "analysis"]
 ---
 
- ويُقال أيضًا في أمرين يحتاج إليهما كل من احتاج إلى الحياة المال والأدب
-ويُقال في أمرين لا ينبغي لأحدٍ أن يستكبر عنهما الأدب والموت ويُقال إنَّ الأدب يجلو العقل كما يجلو الوَدَكُ النارَ ويزيدُها ضوءًا والأدبُ يرفع صاحبَه كما تُرفع الكرةُ يضربها الرجل الشديد والعلم يُنجي من استعمله
+ ولم يكن  إذ كثرت صنوف أصول العلم ثم تفرعت فروعها  بدٌّ من أن تكثُر العلل التي تجري عليها أقاويل العلماء

@@ -1,6 +1,6 @@
 ---
-title: "Frame Story Departure: The Mouse and Her Suitors"
-tags: ['counsel', 'self-awareness', 'wisdom', "frame_story_departure"]
+title: "Departure to Inner Story: The Tale of the Sparrow, the Hare, and the Cat"
+tags: ['justice', 'death', 'religion', "frame_story_departure"]
 ---
 
- قال الغراب وكيف كان ذلك
+ قال الغراب كان لي جارٌ من الصفارِد وجحره قريب من الشجرة التي فيها وكري وكان يُكثر مواصلتنا وطال جوار بعضنا لبعض ثم إني فقدته فلم أدرِ أين غاب وطالت غيبته عنِّي حتى ظننتُ أنه قد هلك فجاءت أرنب إلى مكانه لتسكنه فكرهتُ أن أخاصِمها في مكان الصِّفرِد ولا أدري ما فعل به الدهر فلبثت الأرنب في ذلك المكان زمانًا ثم إنَّ الصفرِد رجع إلى مكانه فلمَّا وجد فيه الأرنب
