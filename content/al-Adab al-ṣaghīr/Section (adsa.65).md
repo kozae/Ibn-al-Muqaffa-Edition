@@ -1,0 +1,6 @@
+---
+title: "The Roots and Fruits of Virtue"
+tags: ['virtue', 'wisdom', 'contentment', "exposition"]
+---
+
+ أصل العَقْل التثبُّت وثَمَرتُه السَّلامة وأصلُ الورع القناعة وثمرتُه الظفر وأصل التوفيق العمل وثمرته النُّجْح

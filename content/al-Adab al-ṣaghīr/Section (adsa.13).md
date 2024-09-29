@@ -1,0 +1,6 @@
+---
+title: "Prioritizing Reason over Desire"
+tags: ['wisdom', 'reason', 'self-awareness', "argumentation"]
+---
+
+ وعلى العاقل أن يعرف أن الرأيَ والهوى متعاديان وأن من شَأنِ النَّاس تسويف الرأي وإسعاف الهوى فيُخَالف ذَلك ويلتمس ألَّا يزال هواه مُسَوَّفًا ورأيه مسعفًا

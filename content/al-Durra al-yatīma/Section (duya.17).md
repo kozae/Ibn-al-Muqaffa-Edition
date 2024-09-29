@@ -1,0 +1,6 @@
+---
+title: "The Perils of Excessive Caution"
+tags: ['caution', 'self-awareness', 'wisdom', "argumentation"]
+---
+
+ اعلم أن بعض شدة الحذر عونٌ عَليْكَ فيمَا تَحذَرُ وأن شدَّة الاتقاء تدعو إليك ما تتقي

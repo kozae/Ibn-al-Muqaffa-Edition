@@ -1,0 +1,6 @@
+---
+title: "Recognizing Wisdom Regardless of its Source"
+tags: ['wisdom', 'knowledge', 'intellect', "exposition"]
+---
+
+ لا يمنعنك صِغَرُ شأن امرئ من اجتباء ما رأيت من رأيه صوابًا واصطفاء ما رأيتَ من أخلاقه كريمًا فإنَّ اللؤلؤة الفائقة لا تُهان لِهَوان غائصها الذي استخرجها

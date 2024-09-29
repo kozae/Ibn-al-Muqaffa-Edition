@@ -1,0 +1,6 @@
+---
+title: "Balancing Worldly and Spiritual Pursuits"
+tags: ['wisdom', 'religion', 'self-reflection', "exposition"]
+---
+
+ ومن أحسن ذوي العقول عقلًا مَنْ أحسن تقدير أمر معاشه ومعاده تقديرًا لا يفسد عليه واحد منهما الآخر فإن أعياه ذلك رفض الأدنى وآثر عليه الأعظم

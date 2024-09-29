@@ -1,0 +1,6 @@
+## 1 [[Section (yata.1)|The Decline of Society and the Importance of Sincere Counsel]] - (introduction)
+## 2 [[Section (yata.2)|The Ideal Era: Symbiosis of Righteous Ruler and Ruled]] - (exposition)
+## 3 [[Section (yata.3)|The Second Era: A Righteous Ruler Facing a Corrupt Society]] - (exposition)
+## 4 [[Section (yata.4)|The Third Era: A Corrupt Ruler and the Hope for Reform]] - (exposition)
+## 5 [[Section (yata.5)|Recognizing Blessings and Avoiding Biased Judgment]] - (argumentation)
+## 6 [[Section (yata.6)|The Right of the Leader: Rooted in Lineage and Divine Mandate]] - (argumentation)
