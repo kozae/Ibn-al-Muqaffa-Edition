@@ -9,4 +9,4 @@ tags: ['knowledge', 'counsel', "aphorism-compilation"]
 لا تكثرن ادعاءَ العلم في كل ما يعرض فإنك من ذلك بين فضيحتين
 
 > [!similar]
-> - [[Section (adka.46)]]
+> - [[Section (adka.63)]]

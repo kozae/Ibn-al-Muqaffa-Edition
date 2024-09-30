@@ -9,4 +9,4 @@ tags: ['counsel', 'friendship', "aphorism-compilation"]
 وإنَّ لُطفك بصاحِبِ صاحِبِك أحسَنُ عندَه موقعًا من لطفك به بنفسه
 
 > [!verbatim]
-> - [[Section (adka.80)]]
+> - [[Section (adka.97)]]

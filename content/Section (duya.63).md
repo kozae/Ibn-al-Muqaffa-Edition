@@ -9,4 +9,4 @@ tags: ['counsel', 'leadership', "aphorism-compilation"]
 إلا عمن رضوا عنه وأغنَى عنهم في يومهم وساعتهم
 
 > [!verbatim]
-> - [[Section (adka.24)]]
+> - [[Section (adka.41)]]

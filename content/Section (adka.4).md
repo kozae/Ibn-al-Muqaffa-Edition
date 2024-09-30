@@ -1,12 +1,12 @@
 ---
-title: "The Illusion of Universal Approval"
-tags: ['leadership', 'justice', 'counsel', "analysis"]
+title: "Preservation of Knowledge for Future Generations"
+tags: ['knowledge', 'teaching', 'wisdom', "analysis"]
 ---
 
  Section 4 in [[al-Adab al-kabīr]]
 
 ---
-مطلبٌ في أنَّ رضى الناس غاية لا تُدرك إنك إنْ تلتمس رضى جميع الناس تلتمسْ ما لا يُدرك  وكيف يتَّفق لك رأي المختلفين وما حاجتك إلى رضى مَن رِضاه الجَور وإلى موافقة مَن موافقته الضلالة والجهالة فعليك بالتماس رضى الأخيار منهم وذوي العقل فإنك متى تُصِب ذلك تضع عنك مئونة ما سواه
+وبَلَغَ من اهتمامهم بذلك أنَّ الرجل منهم كان يُفتح له الباب من العلم أو الكلمةُ من الصواب  وهو في البلد غير المأهول  فيكتبه على الصخور مبادرةً للأجل وكراهيةً منه أنْ يَسْقُط ذلك عمَّن بعده
 
 > [!verbatim]
-> - [[Section (duya.19)]]
+> - [[Section (duya.4)]]

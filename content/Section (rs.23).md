@@ -18,6 +18,5 @@ tags: ['leadership', 'justice', 'counsel', "analysis"]
 يُبَيِّنُ عن أَحْلَامِها مَنْ يَسُودُها
 
 > [!similar]
-> - [[Section (duya.31)]]
 > - [[Section (yata.5)]]
-> - [[Section (adka.22)]]
+> - [[Section (duya.31)]]

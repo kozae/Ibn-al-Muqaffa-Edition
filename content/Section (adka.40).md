@@ -1,12 +1,12 @@
 ---
-title: "Treating People Justly and Kindly"
-tags: ['justice', 'friendship', 'ethics', "aphorism-compilation"]
+title: "Approaching a Ruler with a Request"
+tags: ['speech', 'manners', 'counsel', "analysis"]
 ---
 
  Section 40 in [[al-Adab al-kabīr]]
 
 ---
-مطلبٌ في معاملة الناس ابْذُلْ لصديقك دمك ومالك ولمعرفتك رِفْدك ومَحْضَرك وللعامَّة بِشْرَك وتحنُّنَك ولعدوِّك عَدْلك وإنصافك  واضنن بدِينك وعِرْضِك على كل أحد
+مطلبٌ فيما ينبغي لطالب الحاجة لدى السلطان لا يكوننَّ طلبُك ما عند الوالي بالمسألة ولا تستبطئه وإنْ أبطأ عليك ولكن اطلُبْ ما قِبَله بالاستحقاق له واسْتَأْنِ به وإنْ طالت الأناة منه فإنك إذا استحققته أتاك عن غير طلب وإنْ لم تستبطئه كان أعجل له
 
 > [!verbatim]
-> - [[Section (duya.87)]]
+> - [[Section (duya.60)]]

@@ -9,4 +9,4 @@ tags: ['counsel', 'generosity', 'speech', 'knowledge', "aphorism-compilation"]
 اعلم أن بعض العطية لؤم وبعض البيان عِيٌّ وبعض العلم جهل فإنِ استطعت ألَّا يكون عطاؤك خَوَرًا ولا بَيَانُك هذرًا ولا علمك جهلًا فافعل
 
 > [!similar]
-> - [[Section (adka.72)]]
+> - [[Section (adka.89)]]

@@ -9,5 +9,5 @@ tags: ['leadership', "aphorism-compilation"]
 لا عيب على الملك في تعيُّشِهِ وتَنَعُّمه إذا تَعَهَّدَ الجسيم من أمره وفوَّض ما دون ذلك إلى الكفاة
 
 > [!similar]
-> - [[Section (adka.13)]]
+> - [[Section (adka.30)]]
 > - [[Section (7_oc.14)]]

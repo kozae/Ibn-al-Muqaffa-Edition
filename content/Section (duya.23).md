@@ -9,4 +9,4 @@ tags: ['leadership', 'justice', "aphorism-compilation"]
 ليَعْرِف النَّاسُ فيما يعرفون من أخلاقِك أنكَ لا تُعاجل بالثواب ولا بالعقاب فإن ذلك أدومُ لخوف الخائف ورجاء الراجي
 
 > [!verbatim]
-> - [[Section (adka.5)]]
+> - [[Section (adka.22)]]

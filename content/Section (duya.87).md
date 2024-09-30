@@ -9,4 +9,4 @@ tags: ['friendship', 'secrecy', "aphorism-compilation"]
 ابذل لصديقك دَمَكَ ومالك ولمعرفتك رفدك ومحضرك وللعَامَّةِ بشْرَكَ وتحننك ولعدوك عدلك واضنن بدينك وعرضك عن كل أحد
 
 > [!verbatim]
-> - [[Section (adka.40)]]
+> - [[Section (adka.57)]]

@@ -9,4 +9,4 @@ tags: ['counsel', 'anger', "aphorism-compilation"]
 لا تتخذ اللعنَ والشتم على عدوك سلاحًا فإنه لا يجرحُ في نفس ولا في مال ولا دين ولا منزلة
 
 > [!similar]
-> - [[Section (adka.63)]]
+> - [[Section (adka.80)]]

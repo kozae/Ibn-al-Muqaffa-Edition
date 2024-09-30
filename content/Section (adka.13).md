@@ -1,12 +1,12 @@
 ---
-title: "The Permissibility of Leisure for a Competent Ruler"
-tags: ['leadership', 'counsel', 'ethics', "analysis"]
+title: "Fundamentals of Courage"
+tags: ['counsel', 'war', 'virtue', "analysis"]
 ---
 
  Section 13 in [[al-Adab al-kabīr]]
 
 ---
-مطلبٌ في أن لا عيب على المَلِك أنْ يلهو إذا وثق من تدبير ملكه لا عيب على المَلِك في تعيُّشه وتنعمه ولعبه ولهوه إذا تعاهد الجسيمَ من أمره بنفسه وأحكم المهمَّ وفوَّض ما دُون ذلك إلى الكُفاة
+وأصلُ الأمر في البأس والشجاعة ألَّا تُحدِّث نفسَك بالإدبار وأصحابُك مقبلون على عدوِّهم ثم إنْ قدرتَ على أنْ تكون أوَّل حامل وآخرَ منصرف من غير تضييع للحذر فهو أفضل
 
-> [!similar]
-> - [[Section (duya.35)]]
+> [!verbatim]
+> - [[Section (duya.9)]]

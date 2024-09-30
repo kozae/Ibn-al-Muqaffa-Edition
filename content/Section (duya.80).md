@@ -9,9 +9,9 @@ tags: ['counsel', 'secrecy', "aphorism-compilation"]
 لا تشكونَّ إلى وزراء السلطان ودُخلائه ما اطَّلعت عليه من رأيٍ تكرهه له فإنك لا تزيد على أن تفطنهم لميله وتغريهم بتزيين ذلك له والميل عليك معه
 
 > [!verbatim]
-> - [[Section (adka.35)]]
+> - [[Section (adka.52)]]
 
 > [!similar]
-> - [[Section (adka.29)]]
-> - [[Section (adka.25)]]
-> - [[Section (adka.33)]]
+> - [[Section (adka.46)]]
+> - [[Section (adka.42)]]
+> - [[Section (adka.50)]]

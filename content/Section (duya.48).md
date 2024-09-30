@@ -9,4 +9,4 @@ tags: ['counsel', "aphorism-compilation"]
 لا تعتذِرَنَّ إلا مَنْ يحب أن يجد لك عذرًا لا تستعينَنَّ إلا بمن يحب أن يظفر لك بحاجتك
 
 > [!similar]
-> - [[Section (adka.53)]]
+> - [[Section (adka.70)]]

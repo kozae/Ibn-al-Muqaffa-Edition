@@ -1,12 +1,12 @@
 ---
-title: "Seeking Satisfaction in Leadership"
-tags: ['leadership', 'piety', 'counsel', "analysis"]
+title: "Their Mastery of Religion and Worldly Affairs"
+tags: ['religion', 'knowledge', 'wisdom', "analysis"]
 ---
 
  Section 2 in [[al-Adab al-kabīr]]
 
 ---
-مطلبٌ فيمن ينبغي للوالي أنْ ينال رضاه لِتكنْ حاجتك في الولاية إلى ثلاثِ خصال رضى ربك ورضى سلطان  إنْ كان فوقك  ورضى صالح مَن تَلِي عليه  ولا عليك أنْ تلهو عن المال والذِّكْر فسيأتيك منهما ما يحسنُ ويطيب ويُكتفى به  واجعل الخصالَ الثلاث منك بمكانِ ما لا بُدَّ لك منه واجعل المال والذِّكْر بمكان ما أنت واجد منه بُدًّا
+فكان صاحبُ الدِّين منهم أبلغَ في أمر الدِّين علمًا وعملًا من صاحب الدِّين منَّا وكان صاحب الدنيا على مثل ذلك من البلاغة والفضل
 
 > [!verbatim]
-> - [[Section (duya.17)]]
+> - [[Section (duya.3)]]

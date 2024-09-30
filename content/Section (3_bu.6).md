@@ -10,5 +10,5 @@ tags: ['wealth', 'poverty', 'indifference', "analysis"]
 
 > [!similar]
 > - [[Section (duya.47)]]
-> - [[Section (adka.76)]]
+> - [[Section (adka.93)]]
 > - [[Section (duya.149)]]

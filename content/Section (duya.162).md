@@ -9,4 +9,4 @@ tags: ['counsel', 'friendship', "aphorism-compilation"]
 واعلم أن خفض الصوت وسكُون الريح ومشي القصد من دواعي المودة إذا لم يُخالط ذلك بَأو ولا عجب أمَّا العُجْبُ فهو من دواعي المقت والشنآن
 
 > [!verbatim]
-> - [[Section (adka.80)]]
+> - [[Section (adka.97)]]

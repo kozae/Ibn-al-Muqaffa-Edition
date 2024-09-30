@@ -9,4 +9,4 @@ tags: ['knowledge', 'counsel', "aphorism-compilation"]
 إما أن يُنازعوك فيما ادعيت فيُهْجَم منك على الجهالة والضلف
 
 > [!verbatim]
-> - [[Section (adka.46)]]
+> - [[Section (adka.63)]]

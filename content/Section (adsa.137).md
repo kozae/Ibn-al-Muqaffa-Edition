@@ -10,4 +10,4 @@ tags: ['counsel', 'intellect', 'speech', "aphorism-compilation"]
 
 > [!similar]
 > - [[Section (duya.164)]]
-> - [[Section (adka.81)]]
+> - [[Section (adka.98)]]
