@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/kozae/Ibn-al-Muqaffa"
+      GitHub: "https://github.com/kozae/Ibn-al-Muqaffa-Edition"
     },
   }),
 }
