@@ -1,6 +1,0 @@
----
-title: "Qualities of a Wise and Righteous Person"
-tags: ['good-character', 'justice', 'counsel', "aphorism-compilation"]
----
-
- مما يُعتبر به صلاحُ الصالح وحسن نظره للنَّاس أنْ يكون إذا استعتبَ المذنب ستورًا لا يُشيعُ وإذا استُشِيرَ سَمْحًا بالنَّصيحة مُجتهِدًا للرأي وإذا استشار مطرحًا للحياء ومعترفًا للحق

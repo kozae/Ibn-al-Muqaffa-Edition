@@ -107,7 +107,20 @@
     --callout-icon: var(--callout-icon-example);
   }
 
+  &[data-callout="similar"] {
+    --color: #7a43b5;
+    --border: #7a43b544;
+    --bg: #7a43b510;
+    --callout-icon: var(--callout-icon-example);
+  }
+
   &[data-callout="quote"] {
+    --color: var(--secondary);
+    --border: var(--lightgray);
+    --callout-icon: var(--callout-icon-quote);
+  }
+
+  &[data-callout="verbatim"] {
     --color: var(--secondary);
     --border: var(--lightgray);
     --callout-icon: var(--callout-icon-quote);

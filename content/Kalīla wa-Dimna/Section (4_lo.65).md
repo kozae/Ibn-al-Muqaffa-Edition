@@ -1,6 +1,0 @@
----
-title: "Frame Story 16: The Bird and the Ape - Inner Story"
-tags: ['counsel', 'speech', 'intellect', "narration"]
----
-
- فرُعِب الثور من ذلك وقال إن أنت جعلت لي على نفسك عهدًا أو أخذتَ لي منه الأمان أقبلتُ معك

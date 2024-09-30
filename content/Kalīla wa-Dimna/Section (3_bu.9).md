@@ -1,6 +1,0 @@
----
-title: "Inner Debate: Reason Prevails Over Desire"
-tags: ['self-reflection', 'reason', 'virtue', "narration"]
----
-
- فلمَّا خاصمتُ نفسي بهذا وأخذتها به وبصَّرتها إياه لم تجد له نقضًا ولا عنه مذهبًا ولا منصرفًا فاعترفتْ وأقرَّت ولَهَت عما كانت تنزع إليه وترغب فيه

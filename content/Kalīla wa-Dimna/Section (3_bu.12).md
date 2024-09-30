@@ -1,6 +1,0 @@
----
-title: "The Search for a True Religion"
-tags: ['religion', 'knowledge', 'self-reflection', "narration"]
----
-
- أمَّا كُتُب الطب فلم أجد فيها لشيءٍ من الأديان ذكرًا يدُلُّني على أهداها وأصوبها

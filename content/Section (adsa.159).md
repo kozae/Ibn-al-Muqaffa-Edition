@@ -1,0 +1,9 @@
+---
+title: "The Bittersweet Nature of Life"
+tags: ['friendship', 'hardship', 'contentment', "conclusion"]
+---
+
+ Section 159 in [[al-Adab al-ṣaghīr]]
+
+---
+ولا تعد الغُنْمَ غُنْمًا إذا ساق غُرْمًا ولا الغُرْم غُرْمًا إذا ساق غُنْمًا ولا تَعْتَدَّ من الحياة ما كان في فراق الأحبة

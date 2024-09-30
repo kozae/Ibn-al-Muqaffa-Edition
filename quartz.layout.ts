@@ -13,10 +13,14 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
+
+
+
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
+    // Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
@@ -26,12 +30,26 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     // Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      title: "Books",
+      filterFn: (node) => {
+        return !node.name.includes("Section")
+      },
+    })),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      globalGraph: {
+        showTags: false,
+        repelForce: 0.1,
+        centerForce: 0.1,
+        linkDistance: 30,
+        opacityScale: 0.05,
+      },
+      localGraph: { depth: 1 }
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    // Component.Backlinks(),
   ],
 }
 
